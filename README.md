@@ -2,7 +2,7 @@
 
  Meu nome é IGOR ALMEIDA
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://alura.com.br)
 
 - Estou me desenvolvendo na linguagem JavaScript
 
